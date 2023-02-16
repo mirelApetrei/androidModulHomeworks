@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.iml" filepath="$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/week1Day3AndroidModule/Social_Media_Profile.week1Day3AndroidModule.unitTest.iml" />
     </modules>
   </component>
 </project>

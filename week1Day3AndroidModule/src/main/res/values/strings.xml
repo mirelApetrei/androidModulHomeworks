@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aufgabe_Android_AndroidStudio_01</string>
+    <string name="beitr_ge">Beiträge</string>
+    <string name="todo">TODO</string>
+</resources>
