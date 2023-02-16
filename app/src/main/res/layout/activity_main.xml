@@ -159,7 +159,7 @@
             android:text="Folgen"
             android:textAllCaps="false"
             tools:ignore="TextContrastCheck" />
-
+<!--->
         <Button
             android:id="@+id/btnMessage"
             android:layout_width="wrap_content"
