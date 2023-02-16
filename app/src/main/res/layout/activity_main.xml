@@ -54,33 +54,29 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center">
-
+<!--here I aplied the "custom2" style that I wrote in styles file-->
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="3.260"
-                android:textAlignment="center"
-                android:textColor="@android:color/black"
-                android:textSize="20sp"
-                android:textStyle="bold" />
+                style="@style/custom2" />
+
+            <!--here I aplied the "custom2" style that I wrote in styles file-->
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="411 Mio."
-                android:textAlignment="center"
-                android:textColor="@android:color/black"
-                android:textSize="20sp"
-                android:textStyle="bold" />
+                style="@style/custom2" />
+
+            <!--here I aplied the "custom2" style that I wrote in styles file-->
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="502"
                 android:textAlignment="center"
-                android:textColor="@android:color/black"
-                android:textSize="20sp"
-                android:textStyle="bold" />
+                style="@style/custom2" />
         </TableRow>
 
         <TableRow
@@ -88,29 +84,27 @@
             android:layout_height="wrap_content"
             android:gravity="center">
 
+<!--            Here I applied customStyles that I wrote in styles file-->
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Beiträge"
-                android:textAlignment="center"
-                android:textColor="@android:color/black"
-                android:textSize="16sp" />
+                style="@style/customStyles"/>
+
+            <!--            Here I applied customStyles that I wrote in styles file-->
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Follower"
-                android:textAlignment="center"
-                android:textColor="@android:color/black"
-                android:textSize="16sp" />
+                style="@style/customStyles" />
+            <!--            Here I applied customStyles that I wrote in styles file-->
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Gefolgt"
-                android:textAlignment="center"
-                android:textColor="@android:color/black"
-                android:textSize="16sp" />
+                style="@style/customStyles"/>
         </TableRow>
 
         <TableRow android:layout_weight="1" />
@@ -262,74 +256,54 @@
             app:srcCompat="@drawable/bild_2"
             tools:ignore="ImageContrastCheck" />
 
+<!--In all the images ,I used imagesStyle, created in styles file-->
         <ImageView
             android:id="@+id/ivImage3"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            style="@style/imagesStyle"
             app:layout_column="2"
-            app:layout_columnWeight="1"
             app:layout_row="0"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/bild_3" />
 
         <ImageView
             android:id="@+id/ivImage4"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            style="@style/imagesStyle"
             app:layout_column="0"
-            app:layout_columnWeight="1"
             app:layout_row="1"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/bild_4" />
 
         <ImageView
             android:id="@+id/ivImage5"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            style="@style/imagesStyle"
             app:layout_column="1"
-            app:layout_columnWeight="1"
             app:layout_row="1"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/bild_5" />
 
         <ImageView
             android:id="@+id/ivImage6"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            style="@style/imagesStyle"
             app:layout_column="2"
-            app:layout_columnWeight="1"
             app:layout_row="1"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/bild_6" />
 
         <ImageView
             android:id="@+id/ivImage7"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            style="@style/imagesStyle"
             app:layout_column="0"
-            app:layout_columnWeight="1"
             app:layout_row="2"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/bild_7" />
 
         <ImageView
             android:id="@+id/ivImage8"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            style="@style/imagesStyle"
             app:layout_column="1"
-            app:layout_columnWeight="1"
             app:layout_row="2"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/bild_8" />
 
         <ImageView
             android:id="@+id/ivImage9"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            style="@style/imagesStyle"
             app:layout_column="2"
-            app:layout_columnWeight="1"
             app:layout_row="2"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/bild_9" />
 
     </androidx.gridlayout.widget.GridLayout>
