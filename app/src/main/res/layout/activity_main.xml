@@ -155,7 +155,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="10dp"
             android:layout_weight="1"
-            android:backgroundTint="#2196F3"
+            android:backgroundTint="@color/follow_btn_light"
             android:text="Folgen"
             android:textAllCaps="false"
             tools:ignore="TextContrastCheck" />

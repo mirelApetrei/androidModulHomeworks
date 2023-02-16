@@ -9,5 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="follow_button"></color>
+    <color name="follow_btn_light">#2196F3</color>
+    <color name="follow_button">#FF9800</color>
+    <color name="title_dark_mode">#FF5722</color>
+    <color name="words_dark_mode">#FAF7F7</color>
 </resources>
