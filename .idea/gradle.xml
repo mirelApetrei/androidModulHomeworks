@@ -11,6 +11,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/week1Day2Android" />
+            <option value="$PROJECT_DIR$/week1Day2BAndroid" />
             <option value="$PROJECT_DIR$/week1Day3AndroidModule" />
           </set>
         </option>
