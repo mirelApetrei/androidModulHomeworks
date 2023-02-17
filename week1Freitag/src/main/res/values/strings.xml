@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiniApp</string>
+    <string name="description_text">Woody has always been confident about his place in the world, and that his priority is taking care of kid, whether that`s Andy or Bonnie</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="play_now">Play Now</string>
+    <string name="toy_story_4">Toy Story 4</string>
+    <string name="year_duration">2019, 180 min.</string>
+    <string name="logo_name">Disney</string>
+</resources>
+
+<!--description_text var added and used-->
