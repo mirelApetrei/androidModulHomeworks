@@ -40,3 +40,20 @@ class MainActivity : AppCompatActivity() {
         }.start()
     }
 }
+
+/*  val movieDatabase = mutableListOf(
+            "San Andreas",
+            "Black Panther",
+            "The Goonies",
+            "Ready Player One",
+            "Tides",
+            "The Mandalorian",
+            "Black Widow",
+            "Chapter Two",
+            "The Matrix",
+            "Titanic",
+            "After",
+            "Star Wars",
+            "Iron Man",
+            "Joker"
+        )*/

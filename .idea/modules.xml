@@ -3,10 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Social_Media_Profile.iml" filepath="$PROJECT_DIR$/.idea/modules/Social_Media_Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.iml" filepath="$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.main.iml" filepath="$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_Media_Profile.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.iml" filepath="$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/w2D1/Social_Media_Profile.w2D1.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/week1Day2Android/Social_Media_Profile.week1Day2Android.iml" filepath="$PROJECT_DIR$/.idea/modules/week1Day2Android/Social_Media_Profile.week1Day2Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/week1Day2Android/Social_Media_Profile.week1Day2Android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/week1Day2Android/Social_Media_Profile.week1Day2Android.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/week1Day2Android/Social_Media_Profile.week1Day2Android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/week1Day2Android/Social_Media_Profile.week1Day2Android.main.iml" />

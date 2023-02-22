@@ -8,7 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="SI_DeepPurple">#060F38</color>
-    <color name="SI_Purple">#7656FD</color>
     <color name="SI_Yellow">#FFF250</color>
     <color name="SI_Grey">#F2F2F2</color>
 </resources>
