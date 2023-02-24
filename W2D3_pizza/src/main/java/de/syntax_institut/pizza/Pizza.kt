@@ -3,7 +3,7 @@ package de.syntax_institut.pizza
 import android.annotation.SuppressLint
 import android.widget.ImageView
 import android.widget.TextView
-import org.w3c.dom.Text
+
 
 open class Pizza(
     val flour: String = "Flour",
