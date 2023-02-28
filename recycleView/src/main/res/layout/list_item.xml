@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+
+    android:id="@+id/item_cardView"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_margin="10dp"
+    android:backgroundTint="@color/backgroundD3"
+
+    app:cardCornerRadius="8dp"
+    app:cardElevation="10dp"
+    app:cardPreventCornerOverlap="false"
+    app:contentPadding="6dp">
+
+    <!--   THis is from me written as homework and some proprieties up-->
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="?attr/colorOnPrimary"
+        android:textSize="24sp"
+        tools:text="@string/movieTitle1" />
+
+
+    <CheckBox
+        android:id="@+id/likeButton"
+        android:layout_width="46dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="300dp"
+        android:button="@drawable/selector_wishlist_item"
+        android:scaleX="@android:dimen/app_icon_size"
+        android:scaleY="@android:dimen/app_icon_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:useMaterialThemeColors="false" />
+
+
+</com.google.android.material.card.MaterialCardView>
