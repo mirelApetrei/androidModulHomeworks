@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity
 class MainActivity : AppCompatActivity() {
 
     /**
-     * Lifecycle Methode, wird aufgerufen wenn Activity erstellt wird
+     * Lifecycle Methode, wird aufgerufen wenn Activity erstellt wird dss
      */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
