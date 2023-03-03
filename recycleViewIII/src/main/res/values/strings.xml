@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Rare Animals</string>
+
+    <string name="animalName1">The Pangolin</string>
+    <string name="animalName2">The Philippine Eagle</string>
+    <string name="animalName3">The Ti-Liger</string>
+    <string name="animalName4">The Saola</string>
+    <string name="animalName5">Mountain Gorilla</string>
+    <string name="animalName6">Black Tiger</string>
+    <string name="animalName7">Yangtze Finless Porpoise</string>
+    <string name="animalName8">Ploughshare Tortoise</string>
+    <string name="animalName9">Hine’s Emerald Dragonfly</string>
+    <string name="animalName10">Black-Footed Ferret</string>
+
+
+
+
+
+    <string name="animalInfo1">Pangolins are one of the most trafficked mammals in Asia and Africa;
+         in high demand in countries like China and Vietnam.
+        Their meat is considered a delicacy;
+        are used in traditional medicine and folk remedies. "</string>
+
+    <string name="animalInfo2">Formerly known as the "Monkey-eating eagle,"
+        this Philippines native is one of the strongest birds of prey,
+        able to use its strong beak to attack monkeys, snakes, and lizards. </string>
+
+    <string name="animalInfo3">The Ti-Liger, is one of the rarest animals on the planet."
+        In fact, this man-made mix between a
+        liger and a tiger is barely spotted.</string>
+
+    <string name="animalInfo4">The saola is a rare breed of mammal native to Vietnam.
+        With two long, parallel horns, the creature
+        is often referred  to as the "Asian unicorn."</string>
+
+    <string name="animalInfo5">As their name suggests, they reside in the mountains
+        between 8,000 to 13,000 feet.
+        Only approximately a thousand mountain gorillas are left in the world</string>
+
+    <string name="animalInfo6">Pseudomelanization is the cause of alleged black tigers. However,
+        pseudo-melanistic tigers are real in the wild and in zoos, yet they are very rare. </string>
+
+    <string name="animalInfo7">The Yangtze finless porpoise and the Baiji dolphin,
+        two different species of dolphin, used to live in the Yangtze River,
+        the longest river in Asia. However, it was functionally extinct in 2006</string>
+
+    <string name="animalInfo8">Their very distinctive golden-domed shells are very much why
+        wildlife traffickers are on the hunt for them. Ploughshare tortoises are only found in a small area
+        of Madagascar in the arid woodlands of Baly Bay National Park.</string>
+
+    <string name="animalInfo9">The Hine emerald dragonfly has a wingspan of around
+        three and one-third inches and measures about two and a half inches long.
+        Its body is metallic green, and its eyes are bright green,sides of the body are striped in yellow.</string>
+
+    <string name="animalInfo10">Currently, just over 300 animals have been returned to the wild
+        thanks to captive breeding, reintroductions, habitat preservation, and cloning</string>
+
+
+
+    <string name="animalLocation1">VIETNAM, CHINA, AFRICA</string>
+    <string name="animalLocation2">PHILIPPINE</string>
+    <string name="animalLocation3">SOUTH AFRICA</string>
+    <string name="animalLocation4">VIETNAM</string>
+    <string name="animalLocation5">CENTRAL/EAST AFRICA</string>
+    <string name="animalLocation6">INDIA</string>
+    <string name="animalLocation7"> ASIA </string>
+    <string name="animalLocation8">MADAGASCAR </string>
+    <string name="animalLocation9"> NORTH AMERICA </string>
+    <string name="animalLocation10"> NORTH AMERICA</string>
+    <string name="location">Location: </string>
+    <string name="name">Name: </string>
+</resources>
