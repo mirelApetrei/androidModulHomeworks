@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Android_Sportliste</string>
+
+    <string name="player1">Novak Djokovic</string>
+    <string name="player2">Carlos Alcaraz</string>
+    <string name="player3">Stefanos Tsitsiopas</string>
+    <string name="player4">Casper Ruud</string>
+    <string name="player5">Taylor Fritz</string>
+    <string name="player6">Andrey Rublev</string>
+    <string name="player7">Daniil Medvedev</string>
+    <string name="player8">Rafael Nadal</string>
+    <string name="player9">Felix Auger-Aliassime</string>
+    <string name="player10">Rune Holger</string>
+    <string name="player11">Ilie Nastase</string>
+    <string name="player12">Ion Tiriac</string>
+
+    <string name="rankPlayer1"> 1 </string>
+    <string name="rankPlayer2"> 2 </string>
+    <string name="rankPlayer3"> 3 </string>
+    <string name="rankPlayer4"> 4 </string>
+    <string name="rankPlayer5"> 5 </string>
+    <string name="rankPlayer6"> 6 </string>
+    <string name="rankPlayer7"> 7 </string>
+    <string name="rankPlayer8"> 8 </string>
+    <string name="rankPlayer9"> 9 </string>
+    <string name="rankPlayer10"> 10 </string>
+    <string name="rankPlayer11"> 11 </string>
+    <string name="rankPlayer12"> 12 </string>
+
+    <string name="scorePlayer1"> 6980 </string>
+    <string name="scorePlayer2"> 6780 </string>
+    <string name="scorePlayer3"> 5805 </string>
+    <string name="scorePlayer4"> 5515 </string>
+    <string name="scorePlayer5"> 3660 </string>
+    <string name="scorePlayer6"> 3405 </string>
+    <string name="scorePlayer7"> 3320 </string>
+    <string name="scorePlayer8"> 3315 </string>
+    <string name="scorePlayer9"> 3245 </string>
+    <string name="scorePlayer10"> 3161 </string>
+    <string name="scorePlayer11"> BEST </string>
+    <string name="scorePlayer12"> Second </string>
+    <string name="atp_world_ranking_list_men_2023">ATP World Ranking List Men 2023</string>
+</resources>
