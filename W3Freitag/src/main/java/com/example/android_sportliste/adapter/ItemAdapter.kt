@@ -40,7 +40,7 @@ class ItemAdapter(
         holder.cardView.setOnClickListener {
 
             Toast.makeText(context,
-                "You pressed on ${ holder.binding.playerName.text  } card info.\n He has ${holder.binding.score.text} points. ",
+                "You pressed on ${ holder.binding.playerName.text  } card info.\n He has ${holder.binding.score.text} points.",
                 Toast.LENGTH_LONG).show()
 
 

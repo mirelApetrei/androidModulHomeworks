@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Social_Media_Profile.iml" filepath="$PROJECT_DIR$/.idea/modules/Social_Media_Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Lifecycle/Social_Media_Profile.Lifecycle.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.iml" filepath="$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.main.iml" filepath="$PROJECT_DIR$/.idea/modules/W2D3_pizza/Social_Media_Profile.W2D3_pizza.main.iml" />

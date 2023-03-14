@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Lifecycle" />
             <option value="$PROJECT_DIR$/W2D3_pizza" />
             <option value="$PROJECT_DIR$/W2day4-Lotto" />
             <option value="$PROJECT_DIR$/W3D1" />
